@@ -1,0 +1,5 @@
+Changing reuirements
+See and catch repeated mistakes
+
+control over what constitutes a commit
+user error if we forget to commit 
