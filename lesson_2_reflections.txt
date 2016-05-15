@@ -7,3 +7,11 @@ To track a project's working files.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It separates what files you want to track from those you don't. Keeps your changes separate until you are ready to make the actual commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Use the giti status, git diff, and git diff --staging commands to see the differences in files between the working directory, staging area, and first commits.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Major version differences/experiments. 
